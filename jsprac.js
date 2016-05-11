@@ -26,7 +26,7 @@ function greaterNum(a,b) {
   }
 }
 
-//word translator
+//word translator 1
 function helloWorld(language) {
   if (language==="fr") {
     console.log("Bonjour tout le monde!");
